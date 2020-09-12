@@ -1,0 +1,41 @@
+{ 
+  "details":{
+    "name":"Andhra Pradesh state skill development coporation(APSSDC)",
+    "age":5,
+    "photo":"logo.jpg",
+    "courses":["web designing using ReactJs","phython","data analysis","emddeed systems","web desining using DJango"]
+  },
+  "trainers":[
+
+           {
+            "name":"prapulla",
+            "phoneNo":9153259988,
+            "Email":"prapulla@gmail.com",
+            "course":"webdesibning using ReactJs"
+           },
+           {
+            "name":"pranitha",
+            "phoneNo":9344817568,
+            "Email":"pranitha@gmail.com",
+            "course":"phython"
+           },
+           {
+            "name":"srikanth",
+            "phoneNo":9764165488,
+            "Email":"srikanth@gmail.com",
+            "course":"data analysis"
+           },
+           {
+            "name":"jagadesh",
+            "phoneNo":9143276373,
+            "Email":"jagadesh@gmail.com",
+            "course":"emedded systems"
+           },
+           {
+            "name":"shivam",
+            "phoneNo":9646453238,
+            "Email":"shivam@gmail.com",
+            "course":"we desinging using DJango"
+           }
+         ]
+}

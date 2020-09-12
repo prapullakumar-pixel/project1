@@ -1,0 +1,12 @@
+h1{
+	text-align: center;
+	text-decoration: underline;
+	color: red;
+}
+table,td,tr{
+	border: 2px solid #000;
+ border-collapse: collapse;
+}
+h2{
+	text-decoration: underline;
+}
